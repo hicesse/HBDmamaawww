@@ -3,4 +3,5 @@ onload = () =>{
 };
 
 
-//window.addEventListener('click', () => { document.getElementById("lagu").play(); });
+window.addEventListener('click', () => { document.getElementById("lagu").play(); });
+
